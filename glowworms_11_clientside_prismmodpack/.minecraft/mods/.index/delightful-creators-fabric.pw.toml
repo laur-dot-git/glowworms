@@ -1,0 +1,13 @@
+filename = 'delightful-creators-1.1.7.jar'
+name = 'Delightful Creators  [Fabric]'
+side = 'both'
+
+[download]
+hash = 'b00a3dd401aaf4e32f5321061a97cb649deacb199fa263a96873641dc35d9d0674dc04e9502762b82e40bacc34dd38402541d09b69587c95bcef7be1cbc01e57'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jmJ87gsb/versions/8nGvRGPL/delightful-creators-1.1.7.jar'
+
+[update.modrinth]
+mod-id = 'jmJ87gsb'
+version = '8nGvRGPL'

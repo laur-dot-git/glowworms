@@ -1,0 +1,13 @@
+filename = 'WWOO-FABRIC-3.1.9.1.jar'
+name = "William Wythers' Expanded Ecosphere"
+side = 'both'
+
+[download]
+hash = '1e207ee39586983f8c55898a1cac1eb80879b30935bf7bc0f076f81cf1b1b8b4ab7a7290ebbc74833462fa6efb314acc069107bc33c6fd644c903a233b25a363'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/O1XGs7ps/versions/YotfJllH/WWOO-FABRIC-3.1.9.1.jar'
+
+[update.modrinth]
+mod-id = 'O1XGs7ps'
+version = 'YotfJllH'
